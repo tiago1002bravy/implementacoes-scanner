@@ -1,0 +1,1182 @@
+{
+  "1b71c9e4-27de-418c-8537-ce5e5efb1916": {
+    "nome": "Junior Renke",
+    "status": "Finalizado",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "junior",
+      "renke"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "1c13fd71-6239-48cb-bdc0-269af97539f1": {
+    "nome": "Rodrigo dos Santos Rodrigues",
+    "status": "em iniciação",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "rodrigo",
+      "santos",
+      "rodrigues"
+    ],
+    "gravacoes_id": "1eVO-BFb596SEPFDCH4cZQwWi9DHifTWW",
+    "transcricoes_id": "1w9Yycb85yLij61MpaipOzegVVGo9UtCX"
+  },
+  "ffef3ace-b921-48bb-836b-36af880671bb": {
+    "nome": "Thiago Moraes Raso",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "thiago",
+      "moraes",
+      "raso"
+    ],
+    "gravacoes_id": "1UEH8o5T4F5TH8dQSPJsQfc-Pa__36nLq",
+    "transcricoes_id": "1G_2eqT92yhGefM1zyBQ8-zhl2C3dW_wh"
+  },
+  "6a4b1d45-040b-4e00-8961-8c362abc170e": {
+    "nome": "Douglas Lima",
+    "status": "Backlog",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "douglas",
+      "lima"
+    ],
+    "gravacoes_id": "1vqB6LKWtJx7GKl5xDLY35biRj6psCi13",
+    "transcricoes_id": "1GF44P8rFfG2HwmGNmCvuOvTbFQK2PbcD"
+  },
+  "b630bf6d-1e5e-4b48-b7a5-e15bf0405c9c": {
+    "nome": "Reginaldo Segundo",
+    "status": "Backlog",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "reginaldo",
+      "segundo"
+    ],
+    "gravacoes_id": "1myJ3YsfT0Mhz_8OAF9kieEru9FSBP1tp",
+    "transcricoes_id": "1kJ8HR4rczade_dEy6_8CWtWZjILrgorN"
+  },
+  "9bde1eb9-3dbe-4f26-9b03-31cab607ecc3": {
+    "nome": "Stéfany Scalisse",
+    "status": "Suporte",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "stéfany",
+      "scalisse"
+    ],
+    "gravacoes_id": "1KjZbbls-rc7JRDT2mAqhZrbqpgObZgfu",
+    "transcricoes_id": "1HzFD6yGZPtdtZ1ls-8eQc0GVhr9MvMd9"
+  },
+  "82814d5e-93e9-4c3b-a766-cc988c541e35": {
+    "nome": "Assessor.IA – Cocrie",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "assessor",
+      "cocrie"
+    ],
+    "gravacoes_id": "1QCd8t6Gmy76qM6uf90tWvUJs7g_apMMi",
+    "transcricoes_id": "1IVa3yKytzT3imUrel6jz_8ohM6iBzv8r"
+  },
+  "c7e68282-01a6-4c85-ace3-3d1054e34abb": {
+    "nome": "Mórris Litvak",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "mórris",
+      "litvak"
+    ],
+    "gravacoes_id": "1nHNL-QDc9db0tuwbH5lmpbsYrsJ7IpWV",
+    "transcricoes_id": "1lmXioDEwg4Eq3MzPkfq1bn7O_8LTyyEg"
+  },
+  "249b23c5-f5a1-40a3-8619-0c27890c9753": {
+    "nome": "Gustavo Amaral/Reinaldo",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "gustavo",
+      "amaral",
+      "reinaldo"
+    ],
+    "gravacoes_id": "1oQIxKRax46RmOKc7wD1zB-2w8cD5-OP-",
+    "transcricoes_id": "1wc8zlFG_kU5qWXh3id9boS5vxZ2BdUqt"
+  },
+  "d354d872-5169-497f-95a7-8fdbef6efa82": {
+    "nome": "Átila Ribeiro",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "átila",
+      "ribeiro"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "fee2ed56-68ea-4432-8d63-1d1ae1efc143": {
+    "nome": "Javier",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "javier"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "08f0944d-6f02-4d31-8266-833c11e14e2e": {
+    "nome": "Marco Aurélio Frasson",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "marco",
+      "aurélio",
+      "frasson"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "65ea29c3-72d2-4853-b9ac-30375b8bdba3": {
+    "nome": "Pedro Henrique Franco #86a68tzm9",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "pedro",
+      "henrique",
+      "franco",
+      "a68tzm"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "7cf960c9-4c98-4d87-9d69-15498658ab2d": {
+    "nome": "Jeykson Kalyl",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "jeykson",
+      "kalyl"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "6ca379ca-e34c-4ac6-b6fe-854288fcaec2": {
+    "nome": "Jefferson Douglas",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "jefferson",
+      "douglas"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "7eb2113d-5bda-410f-9a19-7e3b3e6d9edb": {
+    "nome": "Jefferson Oestreich - H2J #86a64ejfd",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "jefferson",
+      "oestreich",
+      "a64ejfd"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "917473ff-1eaa-47a9-960f-d90897c09429": {
+    "nome": "Danilo David Ribeiro",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "danilo",
+      "david",
+      "ribeiro"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "907ac3e0-a224-4e41-b4cb-03003751b579": {
+    "nome": "Marlise Guerreiro",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "marlise",
+      "guerreiro"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "3954f147-cb12-4999-ad4b-f064b82f475f": {
+    "nome": "Jesse Filho",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "jesse",
+      "filho"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "d1b60fd7-3aef-40c3-8513-3523bba96b67": {
+    "nome": "Mateus Leoni #86a6envt7",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "mateus",
+      "leoni",
+      "a6envt"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "bcd4fc22-15b8-4446-91dc-a6fdf4dc988d": {
+    "nome": "Sabrina Maestrelo",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "sabrina",
+      "maestrelo"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "0f183b36-d8df-4ba0-b88e-a236a58b3cec": {
+    "nome": "Junior Mendes",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "junior",
+      "mendes"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "0b2fae07-2691-4f31-8698-61e030281868": {
+    "nome": "Sidney Garcês",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "sidney",
+      "garcês"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "1aeee422-b799-4d7e-b4e7-401d166c0c75": {
+    "nome": "Asaphe Jardim - Hertz #86a65vr3d",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "asaphe",
+      "jardim",
+      "hertz",
+      "a65vr3d"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "e5772113-2458-4268-948a-71adcaa6c19a": {
+    "nome": "Diferson",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "diferson"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "675cd4ba-d0c6-491d-862b-47a83ab7ceb1": {
+    "nome": "Cesar Barboza / Nívia Fritzer ",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "cesar",
+      "barboza",
+      "nívia",
+      "fritzer"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "acafa7f9-5947-4a04-8507-be1379c2e502": {
+    "nome": "Antonio Roberto - Grafo #86a6e1t1g",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "antonio",
+      "roberto",
+      "grafo",
+      "a6e1t1g"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "f87d19b9-38db-4649-9f8a-647ea3f78741": {
+    "nome": "Matheus Fockink  #86a6ay0t3",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "matheus",
+      "fockink",
+      "a6ay0t"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "3c62fb73-ac9c-4e0c-9248-483afb9c5e37": {
+    "nome": "Patrick Guimarães – NORK",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "patrick",
+      "guimarães",
+      "nork"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "5c661909-94dd-4c87-835c-27f957ded64f": {
+    "nome": "Kabe – Kathyane #86a5pqchm",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "kabe",
+      "kathyane",
+      "a5pqchm"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "532026b6-7596-4e5f-9056-074c07bec512": {
+    "nome": "Thiago de Almeida Oliveira #86a6hzbnx",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "thiago",
+      "almeida",
+      "oliveira",
+      "a6hzbnx"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "d803c076-e0f2-47d5-9776-60af740da6e6": {
+    "nome": "BOPE",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "bope"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "c188bec8-261d-423a-986e-c9f5d2cee781": {
+    "nome": "Thiago Kiss",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "thiago",
+      "kiss"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "d551154b-0453-45e6-a885-d9b07a003d61": {
+    "nome": "Denis / Bianca DP9Web #86a6h7fdd",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "denis",
+      "bianca",
+      "dp9web",
+      "a6h7fdd"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "98e102ef-4f55-49e4-b809-30c5a587d709": {
+    "nome": "Alan Moraes Ferreira",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "alan",
+      "moraes",
+      "ferreira"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "df304832-ca22-4da9-94f2-b54034cfd658": {
+    "nome": "Portonofino Comunicação e Eventos Eireli",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "portonofino",
+      "comunicação",
+      "eventos"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "ae03dd4a-af44-4983-b555-13f57e3b7c50": {
+    "nome": "Thiago Campos de Figueiredo",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "thiago",
+      "campos",
+      "figueiredo"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "8154faab-28b2-4158-935a-093440ef3efa": {
+    "nome": "Ruan Franceschini",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "ruan",
+      "franceschini"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "0863aebe-49b0-43c3-b4bf-eccfaa6c824e": {
+    "nome": "Pauline Yoshida #86a69qx19",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "pauline",
+      "yoshida",
+      "a69qx"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "99776ac8-b419-4c48-9b62-ea26eeb60736": {
+    "nome": "Abel - Advanced",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "abel",
+      "advanced"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "ac6df45a-fb29-4c3f-aa8e-818abcbe6bb2": {
+    "nome": "Sales Rocket – Thiago Hortolan #86a6uguuk",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "sales",
+      "rocket",
+      "thiago",
+      "hortolan",
+      "a6uguuk"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "03dc5195-fc3f-4349-ac10-a18c26709aeb": {
+    "nome": "Caio Pereira",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "caio",
+      "pereira"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "41f165cb-f3b5-492e-9614-09117ed2b81d": {
+    "nome": "Vinicius Ragazzi",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "vinicius",
+      "ragazzi"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "da0ed3a5-f355-4c70-9948-cc38b3422222": {
+    "nome": "Camila dos Santos",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "camila",
+      "santos"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "0fbc62d7-d8a1-4f4a-929c-1b3283705b99": {
+    "nome": "Bruno Picinini - arOS",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "bruno",
+      "picinini",
+      "aros"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "97a6115d-f15f-4d55-a7b8-21ad221145b4": {
+    "nome": "Vinicius Cardoso",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "vinicius",
+      "cardoso"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "146b6abb-5040-4969-92cf-7d9f5b467d07": {
+    "nome": "Pollyanna da Silva - ADSOX DIGITAL #86a54t4zc",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "pollyanna",
+      "silva",
+      "adsox",
+      "digital",
+      "a54t4zc"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "7714852d-d206-4a54-bb4a-f8b24df981e9": {
+    "nome": "Gustavo Meneghetti",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "gustavo",
+      "meneghetti"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "b8b5e5fe-faad-4ef2-a593-7eadff1f2380": {
+    "nome": "Norival Brito - Dr. IA -  #86a6m7hmw",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "norival",
+      "brito",
+      "a6m7hmw"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "eb2f0ed7-feb6-4b18-aa62-77cd8777e664": {
+    "nome": "Aleksander Fernando #86a7jxkna",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "aleksander",
+      "fernando",
+      "a7jxkna"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "e503691e-4a48-4691-9f0f-279de1a7524d": {
+    "nome": "Luan Felipe Barbosa",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "luan",
+      "felipe",
+      "barbosa"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "b8e4521a-27cb-440f-8876-83be55e21a4d": {
+    "nome": "Fernando Lorenzetti #86a67vkxk",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "fernando",
+      "lorenzetti",
+      "a67vkxk"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "66e11a0b-ca16-4f5f-9bcb-1b5e5d2b4a4d": {
+    "nome": "Tiago Elesbão - Zipscale",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "tiago",
+      "elesbão",
+      "zipscale"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "66ec89f2-3bd4-4044-b207-b76b54a40c0f": {
+    "nome": "Marcos Paulo Freitas Almeida",
+    "status": "Em execução",
+    "responsavel": "",
+    "terms": [
+      "marcos",
+      "paulo",
+      "freitas",
+      "almeida"
+    ],
+    "gravacoes_id": "1oz58vfviQ5FxDYGTe9pCpnzqtpul10tK",
+    "transcricoes_id": "1AGCppixbbBx0mHLa3R5qJ1HWXu4pSmJK"
+  },
+  "b31a07ef-888c-4894-a972-c74865c34b3c": {
+    "nome": "Pablo Ramalho #86a6ubrme",
+    "status": "Suporte",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "pablo",
+      "ramalho",
+      "a6ubrme"
+    ],
+    "gravacoes_id": "1Pt69OCPHxH0MBpY1sULEZTTfMdXtCy6k",
+    "transcricoes_id": "1EDI0W61AIY_KI7ZI8yeeX6MdNuA4_lUf"
+  },
+  "6b9da54f-1e6e-46ee-9125-1d7a4fcc1290": {
+    "nome": "Carolina Trindade Martins Lira",
+    "status": "Suporte",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "carolina",
+      "trindade",
+      "martins",
+      "lira"
+    ],
+    "gravacoes_id": "1GnPvMsiJsJU_9yyAAOGBVmV6TbL8hPsZ",
+    "transcricoes_id": "1KjU7PnZaUgIVeTvgvofQx3IEbL2Sysnp"
+  },
+  "f34034c0-2efe-4ffc-99bd-3f4cb516fc27": {
+    "nome": "Fernanda Vilas Bôas Fahel",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "fernanda",
+      "vilas",
+      "bôas",
+      "fahel"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "351d88e2-4d41-4076-aaea-628c6fb9ace6": {
+    "nome": "Janaina Calixto",
+    "status": "Em execução",
+    "responsavel": "",
+    "terms": [
+      "janaina",
+      "calixto"
+    ],
+    "gravacoes_id": "1r_8BrutKvhiHFy76yBX4UdJYGdIcdW8_",
+    "transcricoes_id": "1bHKHefiweBTTUm9x2Xf_Rp9uOrL_RRH-"
+  },
+  "9af00fc2-1fc5-4d0c-a182-a02de5641333": {
+    "nome": "Kátia Leão #86a64ejrm",
+    "status": "Em encerramento",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "kátia",
+      "leão",
+      "a64ejrm"
+    ],
+    "gravacoes_id": "1pikqk0ko9B2WrpiKmyrk08XAJzoPuL5G",
+    "transcricoes_id": "1CueBoRsJL1zI6x_hYYzJUt0P4PHghtNe"
+  },
+  "11731e85-0f70-4837-8687-32832d831ad3": {
+    "nome": "Leonardo Rabha LM3",
+    "status": "Finalizado",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "leonardo",
+      "rabha"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "2b307aa0-79f9-421a-89ed-bf0d8070c472": {
+    "nome": "Lucas Andrade Malaquias - Doctor One",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "lucas",
+      "andrade",
+      "malaquias",
+      "doctor"
+    ],
+    "gravacoes_id": "12hueErNRWqq6vRQA8Tn8ktlWzndbfg_p",
+    "transcricoes_id": "1V1BhwowA95KsMxYgFv-vtzxbcXFxt7Fy"
+  },
+  "5bce2f89-5454-4139-99b5-1a600bba7285": {
+    "nome": "Kaliane & Eveline Aparecida Co.Crie #86a69tbw9",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "kaliane",
+      "eveline",
+      "aparecida",
+      "crie",
+      "a69tbw"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "44ab03d4-ebc9-40bf-9a26-2c1621c3bdca": {
+    "nome": "Gilberto Barbosa da Cruz Filho ",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "gilberto",
+      "barbosa",
+      "cruz",
+      "filho"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "edc98818-5c29-4b1f-aca0-53f0bfc3384d": {
+    "nome": "Victor Cidade #86a65vjb9",
+    "status": "Em execução",
+    "responsavel": "Carol",
+    "terms": [
+      "victor",
+      "cidade",
+      "a65vjb"
+    ],
+    "gravacoes_id": "1IbsUAEwqU6CsQRyYNSonyNiGeFkOgY7X",
+    "transcricoes_id": "13BrmthsaPbyH0iHin2CjjQdw9eeBZwlV"
+  },
+  "9e18bb89-81e0-42ef-8792-1b1d32149d4a": {
+    "nome": "Jonatas Nascimento Rezende",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "jonatas",
+      "nascimento",
+      "rezende"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "2a03f7c2-2940-4b4f-a641-3b7946e42b96": {
+    "nome": "Ândrius Gabriel #86a6jbda2",
+    "status": "Em execução",
+    "responsavel": "Carol",
+    "terms": [
+      "ândrius",
+      "gabriel",
+      "a6jbda"
+    ],
+    "gravacoes_id": "1hGSg4-DkQHickj-I4U9ubGlaPwM-63eG",
+    "transcricoes_id": "1l4CN-0gKgEjb3jR6RaQvtp-hoRJ1sHp4"
+  },
+  "839ae426-3dc7-4b31-8fc7-0e956eb63cd1": {
+    "nome": "Emanoel dos Santos - ESGT",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "emanoel",
+      "santos",
+      "esgt"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "02f997d1-aa66-4e4d-9b1d-8f6b898bfa00": {
+    "nome": "Bruno Pinheiro",
+    "status": "Paralisado",
+    "responsavel": "",
+    "terms": [
+      "bruno",
+      "pinheiro"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "0ec3df44-fc78-4e1f-8333-43ea0bb736d3": {
+    "nome": "Toogain Money Academy - Gabriel Vidal/Diogo Alves",
+    "status": "Paralisado",
+    "responsavel": "Carol",
+    "terms": [
+      "toogain",
+      "money",
+      "academy",
+      "gabriel",
+      "vidal",
+      "diogo",
+      "alves"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "2a03348f-4644-44ac-b8ec-a6a4fd5076a4": {
+    "nome": "Rafael Vianna Duarte",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "rafael",
+      "vianna",
+      "duarte"
+    ],
+    "gravacoes_id": "1Y1jBt4kiB1wT3Jvaz0CQXg7il0QqUAfw",
+    "transcricoes_id": "1VP0VVJMWPz1fpgdnZ7uUb8eU7JnBGJ6M"
+  },
+  "6a55b881-6ac2-4aaa-9d90-ed00ae47d753": {
+    "nome": "Cristiane Leal",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "cristiane",
+      "leal"
+    ],
+    "gravacoes_id": "1QBlgXms7ux8Abbcn3Izg7DqP-BkYTOiN",
+    "transcricoes_id": "17y348aCqX695t3H8akeEP34op59zgoAh"
+  },
+  "fe3fc14e-f25b-4205-8b57-cb63d5674ede": {
+    "nome": "Thiago Marques - Ultralize",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "thiago",
+      "marques",
+      "ultralize"
+    ],
+    "gravacoes_id": "1boouazIDn8JEveG_8zRewDfJc5PA5B5c",
+    "transcricoes_id": "1hznEi4Ybfw-dihTesf_9_kCBsFiuGIbj"
+  },
+  "9af4dabc-fe59-47b3-99de-6ba1b60a65c0": {
+    "nome": "Dyego Adilson",
+    "status": "Finalizado",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "dyego",
+      "adilson"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "083b134d-a646-4e60-bfa4-1e2bc7b29e28": {
+    "nome": "Dashboard – Luís Rocha",
+    "status": "Em execução",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "luís",
+      "rocha"
+    ],
+    "gravacoes_id": "1OGkjURcGmmidv_cmP1P1hZmD8ABGaJtn",
+    "transcricoes_id": "1r7w6npZFwf8eA0HQwRMjWPgjySlVTY5E"
+  },
+  "b697bb14-0286-4eae-8cba-ff40cf3eed5d": {
+    "nome": "Dashboard – Juliano",
+    "status": "Backlog",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "juliano"
+    ],
+    "gravacoes_id": "1axZVLHUZKesbZOioe4gz74-lnbKK14TZ",
+    "transcricoes_id": "1Zx1xNNKPu4iYM6oBTvBC-jr_cJOgaxV8"
+  },
+  "3a0f4798-3ab3-4e5e-a7f6-56e5f3cad5de": {
+    "nome": "Dashboard – Hebert",
+    "status": "Backlog",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "hebert"
+    ],
+    "gravacoes_id": "1YPIwpH_5J_QSHN3vZ55FIpMRvC02CCA8",
+    "transcricoes_id": "1C3Cy4OQvF9ji3PtmbxYZnhDTQcazHRFw"
+  },
+  "9fc2f474-33c1-4069-a5ca-97aca033672d": {
+    "nome": "Dashboard – Paulo Henrique Guaraciaba",
+    "status": "Backlog",
+    "responsavel": "Camila Vieira",
+    "terms": [
+      "paulo",
+      "henrique",
+      "guaraciaba"
+    ],
+    "gravacoes_id": "1mpH0K0zBjgZz_qcq31nP_q_WlgnJ0tJy",
+    "transcricoes_id": "1jJZ3j9eZmCWGPfXJqxsG0j8bdi9kjHpa"
+  },
+  "5349027f-4223-4f23-a003-030e3fc9f740": {
+    "nome": "Saimon de Aquino",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "saimon",
+      "aquino"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "e8675192-47b9-4bd9-b1a1-8d4fc94897db": {
+    "nome": "Jakellyne Araújo #86a6abmau",
+    "status": "Finalizado",
+    "responsavel": "Carol",
+    "terms": [
+      "jakellyne",
+      "araújo",
+      "a6abmau"
+    ],
+    "gravacoes_id": null,
+    "transcricoes_id": null
+  },
+  "1257fd0c-14cd-4831-b874-e538a1be2200": {
+    "nome": "Lucas Fernandes",
+    "status": "Backlog",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "lucas",
+      "fernandes"
+    ],
+    "gravacoes_id": "1At6i2pV7H-sMjWBIXgwlg6e0ESMlf5O3",
+    "transcricoes_id": "1h0Xl5UqIwWAiwC791DYcBrYWg2gnDoLq"
+  },
+  "6d92937b-69bf-4b73-82c8-19160065ab00": {
+    "nome": "Fernando Hirata Muramatsu",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "fernando",
+      "hirata",
+      "muramatsu"
+    ],
+    "gravacoes_id": "1Far1dh_aCmtSURp529UWhUFGLokntAeP",
+    "transcricoes_id": "129G9qgkDwL3v3mt9Wdicyk6-cGFdaT5y"
+  },
+  "461d77ee-174d-490c-9174-9ea1c6cfbba8": {
+    "nome": "Luis Augusto Sbroggio",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "luis",
+      "augusto",
+      "sbroggio"
+    ],
+    "gravacoes_id": "16LbSBtLkDiNVcFcE9EMVu2TIkHkOCp2r",
+    "transcricoes_id": "1B70brANhnroOV3Wk7PzlYSjaIcHyGLN8"
+  },
+  "aef56d34-9595-4816-ab8d-b9320c81fa72": {
+    "nome": "Eduardo Araujo Trigo ",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "eduardo",
+      "araujo",
+      "trigo"
+    ],
+    "gravacoes_id": "1DVgL11xE_1vIL3_em6VlAQfwdRKNmOft",
+    "transcricoes_id": "1mbdKggRXp7ARgKffe1JmahvKkQifsG5G"
+  },
+  "19829b42-2177-4c2c-aca9-376c2ba53f6e": {
+    "nome": "Adriana Camila dos Santos",
+    "status": "Backlog",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "adriana",
+      "camila",
+      "santos"
+    ],
+    "gravacoes_id": "1W2rl4VqZfKxv1BPNE0yHNAFh-9Oer7e8",
+    "transcricoes_id": "1oRVl0coVJGlp6XYFvunlQVQlWo3uVM7I"
+  },
+  "6840c6de-4ef1-4e5a-96dd-45c1f371744a": {
+    "nome": "Marcelo Bertoli da Motta Rosas",
+    "status": "Backlog",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "marcelo",
+      "bertoli",
+      "motta",
+      "rosas"
+    ],
+    "gravacoes_id": "1a8HxnQOxI_3nmE7h2v7iCWTO2zx7o_yy",
+    "transcricoes_id": "18lh7b0mCs2BGKgsjYYd8XLZNcMlUn8KU"
+  },
+  "849073be-657f-4a56-9365-95939a236e4e": {
+    "nome": "Rodolpho Tadeu de Oliveira França",
+    "status": "Em execução",
+    "responsavel": "",
+    "terms": [
+      "rodolpho",
+      "tadeu",
+      "oliveira",
+      "frança"
+    ],
+    "gravacoes_id": "1xao2DJtg_SF6e1gJIwl_gHXbj3G9XzTR",
+    "transcricoes_id": "1OdD_BEBcvz2Rdz7Tcbhr4PIPFCsq1oiW"
+  },
+  "9a6826a5-358f-4891-84be-af9675489ca3": {
+    "nome": "Denise Silva Cardoso de Oliveira",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "denise",
+      "silva",
+      "cardoso",
+      "oliveira"
+    ],
+    "gravacoes_id": "1s4gcXkLTnYGCSK99hvi4Qn25Lep9_LyW",
+    "transcricoes_id": "10bzsDnn-Ht7x_4bSvIsOgH86Akbt81fx"
+  },
+  "0081b16c-1fb1-4a13-9924-515f9a626881": {
+    "nome": "Rafael David Barbosa – RB3",
+    "status": "Em encerramento",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "rafael",
+      "david",
+      "barbosa"
+    ],
+    "gravacoes_id": "1P0Ow2asvj_zH7ReUH10lLXiYfkK-VH9H",
+    "transcricoes_id": "1STWWZhnsIAwJUIe1wlZ-_Efxz9tTTbWg"
+  },
+  "44ada727-3870-453e-92ef-8dcaf40b43a6": {
+    "nome": "Thiago Licurci",
+    "status": "Em execução",
+    "responsavel": "",
+    "terms": [
+      "thiago",
+      "licurci"
+    ],
+    "gravacoes_id": "1RSKz7P-1Oe1yyQ0FcOHPyUR4xzPp1BQY",
+    "transcricoes_id": "1MvFKyomFg0u45nAm-ePeDmuvmSFZ_0x2"
+  },
+  "85568e31-3bff-4aa4-aad7-6d3df084adbf": {
+    "nome": "Bethânia F S Carvalho Teixeira",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "bethânia",
+      "carvalho",
+      "teixeira"
+    ],
+    "gravacoes_id": "1a-qnaYe1PLbK0eucyLjpNR72GAuB_u__",
+    "transcricoes_id": "1hKJqRBEIY5lZIst_FuoDbi6H7Vvf8oQC"
+  },
+  "69b933c5-9524-41c3-bd72-19b0343aef1e": {
+    "nome": "Thiago Rena",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "thiago",
+      "rena"
+    ],
+    "gravacoes_id": "1cfzn630mUvQ3f4zljpi7eZzjnH1hEu4t",
+    "transcricoes_id": "1OKSjCtkmw22PXfKVbnm5NPHzuZi3ORoA"
+  },
+  "b11cee8d-faa7-4b2c-8c0b-c84c2e37ebab": {
+    "nome": "Eduardo Marcellini - STOA",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "eduardo",
+      "marcellini",
+      "stoa"
+    ],
+    "gravacoes_id": "1nmJKScUD4eS5LPyTdLssunophvtxHFC2",
+    "transcricoes_id": "1L62ltrmfZtfU41ZfsbCkstp70b9istEX"
+  },
+  "6b7a5fc4-475d-4dec-9551-85a1bbbcef47": {
+    "nome": "Alex dos Santos",
+    "status": "Em execução",
+    "responsavel": "Yuri",
+    "terms": [
+      "alex",
+      "santos"
+    ],
+    "gravacoes_id": "1cIQuuG2oXaVlhP7j0W2AC8Twdj6LofyM",
+    "transcricoes_id": "1k3DrWGPe4_2S2dPcj77whqDOpZ57JCYA"
+  },
+  "a2bad738-2563-4f9b-b5ec-f7679f7b6bb2": {
+    "nome": "Christiano Salomão",
+    "status": "Em execução",
+    "responsavel": "Tiago Teles",
+    "terms": [
+      "christiano",
+      "salomão"
+    ],
+    "gravacoes_id": "1p0jH3NPfA6LDVk7W6N-tIpuSJy9vZVjk",
+    "transcricoes_id": "1V4VV1bkgZz2iDEGwSY9zB6oa5GMv4vO3"
+  },
+  "f9affce7-e04a-45f8-9ba4-fc279679307b": {
+    "nome": "Agência ARW - Ulisses",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "agência",
+      "ulisses"
+    ],
+    "gravacoes_id": "1rpAyl97S4k068_4b4-bViYTkPeioHdry",
+    "transcricoes_id": "1RfBEW-yGxlCvjDwHCIoW1EyioufcevVK"
+  },
+  "c2227f83-97d0-4a53-aacf-565570ce3a38": {
+    "nome": "Alexsandra Stephanie F M Abdala",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "alexsandra",
+      "stephanie",
+      "abdala"
+    ],
+    "gravacoes_id": "1ALXyT1QDeVXGprkusOR8AWXbcp88lVP7",
+    "transcricoes_id": "1KRi9SIteP0pTrg5eFwP8UtLXoF-CHmMU"
+  },
+  "bc25d340-4564-46d9-91c2-5098f6fb9f23": {
+    "nome": "Feelin - Isadora Silva Campos Rocha",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "feelin",
+      "isadora",
+      "silva",
+      "campos",
+      "rocha"
+    ],
+    "gravacoes_id": "1uccZ2aG3rvUfCeQQHuOg9IMaKAiCkwT_",
+    "transcricoes_id": "17YnVem0765kETcX3c4rsHKz4Ll1D757E"
+  },
+  "195188e6-5967-4c48-8396-86f5612da7b9": {
+    "nome": "Leonardo Lavalhos Linke",
+    "status": "Em execução",
+    "responsavel": "Nádia",
+    "terms": [
+      "leonardo",
+      "lavalhos",
+      "linke"
+    ],
+    "gravacoes_id": "15OTzgQayYPEcW5qoxRLYV5sA68e-Faup",
+    "transcricoes_id": "1CED5zV53cHGh16mo0y3K6FAAJ9ESXQQT"
+  },
+  "9c807f97-9ab3-4ba3-85ec-714b5cb47128": {
+    "nome": "Enryco de Assis",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "enryco",
+      "assis"
+    ],
+    "gravacoes_id": "11Pi5IgPqzo7p8bp-vi2MCEbedWrinbo1",
+    "transcricoes_id": "1oFKlQ-xnMpyUM25eyZWcFh7_TOWo_4oU"
+  },
+  "3550d214-385d-4f9c-ad17-71d77544e720": {
+    "nome": "Luciano de Assis Alberti",
+    "status": "Em execução",
+    "responsavel": "Danivson Franciel",
+    "terms": [
+      "luciano",
+      "assis",
+      "alberti"
+    ],
+    "gravacoes_id": "1Q4xtQNTkW30Gkx93QAIa7OrEnnnWahKa",
+    "transcricoes_id": "1h5KMlD2AtKaLJir7g9UOoY3xcbaIImII"
+  }
+}

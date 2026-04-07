@@ -26,8 +26,8 @@ GOOGLE_CLIENT_ID      = os.environ["GOOGLE_CLIENT_ID"]
 GOOGLE_CLIENT_SECRET  = os.environ["GOOGLE_CLIENT_SECRET"]
 HOPPE_BASE_URL        = os.environ.get("HOPPE_BASE_URL", "https://hoppe-api.bravy.com.br")
 HOPPE_API_KEY         = os.environ["HOPPE_API_KEY"]
-IMPLEMENTACOES_INDEX  = os.environ["IMPLEMENTACOES_INDEX_JSON"]   # JSON string
-IMPLEMENTACOES_ALIASES = os.environ.get("IMPLEMENTACOES_ALIASES_JSON", "{}")
+_INDEX_FILE   = os.path.join(os.path.dirname(__file__), "implementacoes_index.json")
+_ALIASES_FILE = os.path.join(os.path.dirname(__file__), "implementacoes_aliases.json")
 STATE_FILE            = os.environ.get("STATE_FILE", "/data/state.json")
 
 GDOC_MIME   = "application/vnd.google-apps.document"
@@ -86,8 +86,13 @@ def post_hoppe_comment(task_id, text):
 
 # ── Index ────────────────────────────────────────────────────────────
 def load_index():
-    idx = json.loads(IMPLEMENTACOES_INDEX)
-    aliases = json.loads(IMPLEMENTACOES_ALIASES)
+    with open(_INDEX_FILE) as f:
+        idx = json.load(f)
+    try:
+        with open(_ALIASES_FILE) as f:
+            aliases = json.load(f)
+    except FileNotFoundError:
+        aliases = {}
     for hid, extra_terms in aliases.items():
         if hid.startswith("_"):
             continue
