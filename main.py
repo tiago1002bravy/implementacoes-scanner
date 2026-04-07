@@ -67,7 +67,7 @@ def hoppe_request(method, path, body=None):
     req = urllib.request.Request(
         url, data=data, method=method,
         headers={
-            "Authorization": f"Bearer {HOPPE_API_KEY}",
+            "Authorization": HOPPE_API_KEY,
             "Content-Type": "application/json",
         }
     )
